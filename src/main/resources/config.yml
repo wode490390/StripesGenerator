@@ -1,0 +1,8 @@
+stripe1:
+  # Block ID used to generate the stripe A
+  material: 236
+  meta: 15
+stripe2:
+  # Block ID used to generate the stripe B
+  material: 236
+  meta: 4
